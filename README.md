@@ -90,3 +90,56 @@ A wireframe for a login form may include input fields, a "Forgot Password?" link
 ---
 
 Each of these elements plays a vital role in shaping the user experience and ensuring the design is both functional and user-friendly before moving to high-fidelity mockups or development.
+
+## 🧱 Types of Wireframes
+
+Wireframes generally fall into two categories: **low-fidelity** and **high-fidelity**. Each serves a different purpose in the design process and is used at different stages.
+
+---
+
+### 🔹 Low-Fidelity Wireframes
+
+Low-fidelity wireframes are **basic, rough layouts** that focus on the structure and overall flow of the interface. They are usually created in grayscale and use simple shapes to represent UI elements.
+
+**Characteristics:**
+
+- Fast to produce and easy to modify
+- Focus on layout and user flow
+- Use placeholders like boxes, lines, and dummy text
+- Ideal for brainstorming and early-stage feedback
+
+**When to Use:**
+
+- During the **early planning phase**
+- When validating layout ideas or navigation flows
+- When collaborating on overall structure before visuals
+
+---
+
+### 🔸 High-Fidelity Wireframes
+
+High-fidelity wireframes are **detailed and realistic representations** of the final design. They incorporate branding, typography, colors, real UI components, and sometimes even sample content.
+
+**Characteristics:**
+
+- Closely resembles the finished product
+- Includes detailed styling, spacing, and interaction cues
+- Can be used for usability testing or developer handoff
+
+**When to Use:**
+
+- In the **later stages of design**
+- Before or during the prototyping phase
+- When presenting to stakeholders or preparing for development
+
+---
+
+## 🔍 Wireframe Type Used in This Project
+
+The wireframe example provided in this project is a **high-fidelity wireframe**.
+
+### Why?
+
+- It includes detailed visual elements like **typography, color schemes, styled buttons**, and **realistic layouts**.
+- The UI components resemble what users will actually interact with in the final product.
+- It’s useful for testing specific interactions and handing off designs to developers for implementation.
